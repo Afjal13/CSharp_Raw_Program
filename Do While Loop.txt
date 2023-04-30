@@ -1,0 +1,19 @@
+using System;
+
+namespace Do_While_Loop
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = 1;
+
+            do
+            {
+                Console.Write($"{n} ");
+                n++;
+            }while (n < 6);
+            
+        }
+    }
+}
