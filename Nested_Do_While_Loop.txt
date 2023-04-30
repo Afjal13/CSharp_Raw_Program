@@ -1,0 +1,19 @@
+using System;
+
+namespace Nested_Do_While_Loop
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            do
+            {
+                Console.WriteLine("I am from outer do while loop");
+                do
+                {
+                    Console.WriteLine("I am from inner do while loop");
+                } while (1>2);
+            } while (2>3);
+        }
+    }
+}
