@@ -1,0 +1,25 @@
+//Program on Continue statement
+//What will be the output in the below program?
+
+using System;
+
+namespace QuestionProgram1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 10;
+            while (a <= 25)
+            {
+                a += 2;
+                if (a > 15 && a < 20)
+                    continue;
+                Console.Write($"{a} ");
+            }
+            Console.ReadKey();
+        }
+    }
+}
+
+//Output:  12 14 20 22 24 26
