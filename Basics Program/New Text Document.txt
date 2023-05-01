@@ -1,0 +1,38 @@
+using System;
+
+namespace Continue__Example
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //continue basic  
+
+            for (int i = 1; i <= 5; i++)
+            {
+                if (i == 3)
+                {
+                    continue;
+                }
+                Console.WriteLine($"I : {i}");
+            }
+
+            //Using Continue Statement inside the nested loop
+            Console.WriteLine("\nDisplay Continue with inside nested loop:\n");
+
+            for(int outer = 1; outer <= 5; outer++)
+            {
+                Console.WriteLine($"Outer: {outer}");
+                for(int inner = 1; inner <= 5; inner++)
+                {
+                    if(inner == 3)
+                    {
+                        continue;
+                    }
+                    Console.Write($"Inner: {inner}");
+                }
+                Console.WriteLine();
+            }
+        }
+    }
+}
