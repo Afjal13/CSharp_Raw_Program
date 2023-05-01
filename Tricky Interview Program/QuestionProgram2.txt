@@ -1,0 +1,26 @@
+
+//Program on Continue statement
+//What will be the output in the below program?
+using System;
+
+namespace QuestionProgram2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 1;
+            while (a <= 50)
+            {
+                Console.Write($"{a} ");
+                if (a >= 5 && a <= 35)
+                    continue;
+                a = a + 2;
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+//Output:  infinite loop

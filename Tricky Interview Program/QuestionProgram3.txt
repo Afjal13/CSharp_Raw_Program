@@ -1,0 +1,26 @@
+
+//Program on Continue statement
+//What will be the output in the below program?
+using System;
+
+namespace QuestionProgram3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a = 8;
+            while (a <= 42) ;
+            {
+                a += 2;
+                if (a >= 20 && a <= 30)
+                    continue;
+                Console.Write($"{a} ");
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
+
+//Output:  Error CS0139 No enclosing loop out of which to break or continue
