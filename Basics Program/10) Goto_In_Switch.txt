@@ -1,0 +1,35 @@
+//Using goto in Switch Statement
+using System;
+
+namespace Goto_In_Switch
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = 4;
+            switch (number)
+            {
+                case 1:
+                    Console.WriteLine("Case 1");
+                    break;
+                case 2:
+                    Console.WriteLine("Case 2");
+                    break;
+                case 3:
+                    Console.WriteLine("Case 3");
+                    break;
+                case 4:
+                    Console.WriteLine("Case 4");
+                    // goto statement transfer
+                    // the control to case 5
+                    goto case 1;
+
+                default:
+                    Console.WriteLine("No match found");
+                    break;
+            }
+            Console.ReadKey();    
+        }
+    }
+}
