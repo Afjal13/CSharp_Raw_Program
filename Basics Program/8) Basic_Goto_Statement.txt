@@ -1,0 +1,27 @@
+using System;
+
+namespace Basic_Goto_Statement
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("1st Statement:");
+
+            goto label2; //goto label label2:
+
+            Console.WriteLine("2nd Statement:");
+
+            label1:  //goto label
+                Console.WriteLine("3rd Statement:");
+            label2:   //goto label
+                Console.WriteLine("4th Statement:");
+            label3:  //goto label
+                Console.WriteLine("5th Statement:");
+
+            Console.WriteLine("End of Main method Statement");
+
+            Console.ReadKey();    
+        }
+    }
+}

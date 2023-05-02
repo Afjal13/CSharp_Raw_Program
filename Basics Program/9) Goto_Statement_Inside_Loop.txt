@@ -1,0 +1,25 @@
+using System;
+
+namespace Goto_Statement_Inside_Loop
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            for(int i = 1; i <=10; i++)
+            {
+                if(i == 5)
+                {
+                    goto Exitlabel;
+                }
+                Console.WriteLine(i);
+            }
+            Console.WriteLine("Next statement placed after loop");
+
+            Exitlabel: //goto label
+                Console.WriteLine("Labeled statement");
+
+            Console.ReadKey();    
+        }
+    }
+}
