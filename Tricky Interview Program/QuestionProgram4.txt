@@ -1,0 +1,32 @@
+//Can we print numbers from 1 to 10 without using the loop in C#?
+using System;
+
+namespace QuestionProgram4
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+           int count = 1;
+        label_loop:
+            Console.WriteLine(count);
+            count++;
+            if (count <=10)
+                goto label_loop;
+
+            Console.ReadKey();  
+        }
+    }
+}
+
+//Output:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

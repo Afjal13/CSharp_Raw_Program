@@ -1,0 +1,22 @@
+//What will be the output of the below program?
+using System;
+
+namespace QuestionProgram6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i = 2;
+        EVEN:
+            Console.Write($"{i} ");
+            i += 2;
+            if (i <= 20)
+                goto EVEN;
+
+            Console.ReadKey();  
+        }
+    }
+}
+
+// Output: 2 4 6 8 10 12 14 16 18 20

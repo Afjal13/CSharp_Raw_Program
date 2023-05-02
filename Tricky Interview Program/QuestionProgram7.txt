@@ -1,0 +1,24 @@
+//What will be the output of the below program?
+using System;
+
+namespace QuestionProgram7
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("A");
+            Console.Write("CTutorials");
+            goto ABC;
+            Console.Write("WELCOME");
+            Console.Write("HELLO");
+            abc:
+                Console.Write("B");
+                Console.Write("C");
+
+            Console.ReadKey();  
+        }
+    }
+}
+
+// Output: Error CS0159 No such label ‘ABC’ within the scope of the goto statement

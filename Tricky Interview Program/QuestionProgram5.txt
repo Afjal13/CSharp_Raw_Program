@@ -1,0 +1,26 @@
+//What will be the output of the below program?
+using System;
+
+namespace QuestionProgram5
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("C# Tune ");
+            Console.Write("Welcome ");
+        XYZ:
+            Console.Write("X ");
+            Console.Write("Y ");
+            goto ABC;
+            Console.Write("Programming ");
+        ABC:
+            Console.Write("Hello1 ");
+            Console.Write("Hello2");
+
+            Console.ReadKey();  
+        }
+    }
+}
+
+//Output: C# Tune Welcome X Y Hello1 Hello2
