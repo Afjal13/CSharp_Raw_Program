@@ -1,0 +1,24 @@
+using System;
+
+namespace User_Defined_Function
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter First Number:__");
+            int firstNumber =Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter Second Number:__");
+            int secondNumber = Convert.ToInt32(Console.ReadLine());
+            int sum = Add(firstNumber,secondNumber);
+            Console.WriteLine($"Sum is {sum}");
+            Console.ReadKey();
+        }
+
+        static int Add(int firstNumber, int secondNumber)
+        {
+            int sum = firstNumber + secondNumber;
+            return sum;
+        }
+    }
+}

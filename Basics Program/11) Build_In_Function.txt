@@ -1,0 +1,18 @@
+using System;
+
+namespace Build_In_Function
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = 25;
+            double squareRoot = Math.Sqrt(number);
+
+            Console.WriteLine($"Square Root of {number} is {squareRoot}");
+
+            Console.ReadKey();
+        }
+    }
+}
+//output: Square Root of 25 is 5
