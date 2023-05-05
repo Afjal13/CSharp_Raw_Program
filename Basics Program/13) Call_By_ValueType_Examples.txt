@@ -1,0 +1,28 @@
+using System;
+
+namespace Call_By_ValueType_Examples
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Example 1
+            int firstNumber = 15;
+            int secondNumber = firstNumber;
+            secondNumber = 30;
+            Console.WriteLine(firstNumber);
+
+            //Example 2
+            int thirdNumber = 25;
+            UpdateValue(thirdNumber);
+            Console.WriteLine(thirdNumber);
+            Console.ReadKey();
+        }
+        private static int UpdateValue(int pNumber)
+        {
+           return pNumber = 50;
+        }
+    }
+}
+//output: 15
+     //   25

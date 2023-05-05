@@ -1,0 +1,29 @@
+using System;
+
+namespace Call_By_Value_With_ReferenceType
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee employee1 = new Employee();
+            employee1.Name = "Afjal";
+            employee1.Age = 27;
+            Employee employee2 = employee1;
+            employee2.Name = "Afjal Hossain";
+            Console.WriteLine(employee1.Name);
+            Console.WriteLine(employee2.Name);
+
+            Console.ReadKey();
+        }
+    }
+
+    public class Employee
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+    }
+}
+
+//output: Afjal Hossain
+        //Afjal Hossain
