@@ -1,0 +1,51 @@
+using System;
+
+namespace Synchronous_Method_Process
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Main Method Started!");
+            Fun1(4);
+            Console.WriteLine("Main Method Ended!");
+            Console.ReadKey();
+        }
+        static void Fun1(int number)
+        {
+            Console.WriteLine("Fun1 Started!");
+            Fun2(3);
+            Console.WriteLine("Fun1 Ended!");
+        }
+        static void Fun2(int number)
+        {
+            Console.WriteLine("Fun2 Started!");
+            Fun3(2);
+            Console.WriteLine("Fun2 Ended!");
+        }
+        static void Fun3(int number)
+        {
+            Console.WriteLine("Fun3 Started!");
+            Fun4(1);
+            Console.WriteLine("Fun3 Ended!");
+        }
+        static void Fun4(int number)
+        {
+            Console.WriteLine("Fun4 Started!");
+            Console.WriteLine("\n\nFun4 Ended!");
+        }
+    }
+}
+//Output
+//Main Method Started!
+//Fun1 Started!
+//Fun2 Started!
+//Fun3 Started!
+//Fun4 Started!
+
+
+//Fun4 Ended!
+//Fun3 Ended!
+//Fun2 Ended!
+//Fun1 Ended!
+//Main Method Ended!
