@@ -1,0 +1,35 @@
+using System;
+
+namespace Recursive_Function_Examples
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = 3;
+            Console.Write("Fun1 Result: ");
+            Fun1(number);
+            Console.Write("\n\nFun2 Result: ");
+            Fun2(number);
+            Console.ReadKey();
+        }
+        static void Fun1(int number)
+        {
+            if(number > 0)
+            {
+                Console.Write($"{number}");
+                Fun1(number - 1);
+            }
+        }
+        static void Fun2(int number)
+        {
+            if (number > 0)
+            {
+                Fun2(number - 1);
+                Console.Write($"{number}");
+            }
+        }
+    }
+}
+//Fun1 output: 321
+//Fun2 output: 123

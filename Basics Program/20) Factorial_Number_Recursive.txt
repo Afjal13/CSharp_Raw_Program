@@ -1,0 +1,28 @@
+using System;
+
+namespace Factorial_Number_Recursive
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Enter an Integer Number:__");
+            int number = Convert.ToInt32(Console.ReadLine());
+            int Factorialresult = CalculateFactorial(number);
+            Console.WriteLine($"\nThe Number enterd was {number} & Factorial result is {Factorialresult}");
+            Console.ReadKey();  
+        }
+
+        static int CalculateFactorial(int number)
+        {
+            if(number == 1)
+            {
+                return 1;
+            }
+            else
+            {
+                return number*(CalculateFactorial(number-1));
+            }
+        }
+    }
+}
