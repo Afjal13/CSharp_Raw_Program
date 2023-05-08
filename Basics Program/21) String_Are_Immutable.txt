@@ -1,0 +1,47 @@
+using System;
+using System.Diagnostics;
+
+namespace String_Are_Immutable
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //example 1
+            string str = "";
+            Console.WriteLine("Loop Start!");
+            var stopWatch = new Stopwatch();
+            stopWatch.Start();
+            for(int i = 0; i < 30000000; i++)
+            {
+                str =Guid.NewGuid().ToString();
+            }
+            stopWatch.Stop();
+            Console.WriteLine("Loop End!");
+            Console.WriteLine("Loop exceution Time in MS : "+stopWatch.ElapsedMilliseconds);
+
+            //example 2 using Integer
+            int ctr = 0;
+            Console.WriteLine("Loop Start!");
+            var intStopWatch = new Stopwatch();
+            intStopWatch.Start();
+            for (int i = 0; i < 30000000; i++)
+            {
+                ctr=ctr+1;
+            }
+            intStopWatch.Stop();
+            Console.WriteLine("Loop End!");
+            Console.WriteLine("Loop exceution Time in MS : " + intStopWatch.ElapsedMilliseconds);
+            Console.ReadKey();  
+               
+        }
+    }
+}
+//As you can see in the above output, it approximately took 26000 milliseconds to execute 
+// the loop. Each time the loop executes, it creates a fresh string object and assigns
+//  a new value to it.This is because strings are immutable in C#.
+
+////When you execute the program, you will get the following output. The time may vary in your machine.
+
+//output 2
+As you can see in the above output, it only took 84 milliseconds to execute the loop.
