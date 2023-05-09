@@ -1,0 +1,29 @@
+using System;
+using System.Diagnostics;
+using System.Text;
+
+namespace StringConcatenation_Using_StringBuilder
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            Console.WriteLine("Loop Start!");
+            var stopWatch = new Stopwatch();
+            stopWatch.Start();
+            for(int i = 0; i < 30000; i++)
+            {
+                stringBuilder.Append("DotNet Tune! ");
+            }
+            stopWatch.Stop();
+            Console.WriteLine("Loop End!");
+            Console.WriteLine("Loop Exceution Time in MS: "+stopWatch.ElapsedMilliseconds);
+            Console.ReadKey();
+        }
+    }
+}
+//output
+//Loop Start!
+//Loop End!
+//Loop Exceution Time in MS: 1
