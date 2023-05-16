@@ -1,0 +1,40 @@
+using System;
+
+namespace StaticVsNonStaticExample
+{
+    internal class Program
+    {
+        int x; // Non-Static Variable
+        static int y = 200; //Static Variable
+
+        public Program(int x)
+        {
+            this.x = x;
+        }
+        static void Main(string[] args)
+        {
+            //Accessing Static Variable using class name
+            //Before Object Creation
+            Console.WriteLine($"Static Variable With Class Name:  Y = {Program.y}");
+
+            //Accessing Static Variable using without class name
+            //It’s possible because we are accessing the variable
+            //from the same class
+            Console.WriteLine($"Access Static Variable Without Class Name: Y = {y}");
+
+            //Creating object1
+            Program obj1 = new Program(30);
+
+            //Creating object2
+            Program obj2 = new Program(100);
+
+            //Accessing Non-Static Variable using Object of the class
+            Console.WriteLine($"Object1 X = {obj1.x} and Object2 X = {obj2.x}"); 
+            Console.ReadKey();
+        }
+    }
+}
+//Output
+//Static Variable With Class Name:  Y = 200
+//Access Static Variable Without Class Name: Y = 200
+//Object1 X = 30 and Object2 X = 100
