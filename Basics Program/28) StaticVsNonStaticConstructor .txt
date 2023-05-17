@@ -1,0 +1,40 @@
+using System;
+
+namespace StaticVsNonStaticConstructor
+{
+    internal class Program
+    {
+        //Static Constructor
+        //Execute only once
+        //First block of code to be executed inside a class
+        //Before Main Method body start executing, this constructor will execute
+        static Program()
+        {
+            Console.WriteLine("Static Constructor is Called!");
+        }
+        //Non-Static Constructor
+        //Executed once per object
+        //When we create an instance, this constructor will execute
+        public Program()
+        {
+            Console.WriteLine("Non-Static Constructor is Called!");
+        }
+        //Program Execution will start from the Main method
+        //But before executing the Main method body, it will execute the static constructor
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Main Method Execution Start!");
+            Program obj1 = new Program();
+            Program obj2 = new Program();
+            Console.WriteLine("Main Method Execution End");
+            Console.ReadKey();
+        }
+    }
+}
+
+//Output
+//Static Constructor is Called!
+//Main Method Execution Start!
+//Non-Static Constructor is Called!
+//Non-Static Constructor is Called!
+//Main Method Execution End
