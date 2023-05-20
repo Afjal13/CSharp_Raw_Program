@@ -1,0 +1,30 @@
+using System;
+
+namespace ConstantVariableExample
+{
+    internal class Program
+    {
+        //we need to asign a value to the const variable
+        // at the time of const variable declaration else it will
+        // give compile time eroor
+        const float PI = 3.14f;
+        static void Main(string[] args)
+        {
+            // Const variables are static in nature
+            // so we can access them by using class name
+            Console.WriteLine(Program.PI);
+            //we can also access them directly within the same class
+            Console.WriteLine(PI);
+
+            //we can also declare a canstant variable within a method 
+            const int number = 10;
+            Console.WriteLine(number);
+
+            //once after declaration we cannot change the value
+            //of a constant variable. So, the below line gives an error
+            //like number=20; when do it and run the program then it provide compile time error
+
+            Console.ReadKey();  
+        }
+    }
+}
