@@ -1,0 +1,15 @@
+using System;
+
+namespace MSILCodeTest
+{
+    internal class Program
+    {
+        public const float PI = 3.14f; //Constant Variable
+        int Age = 10; //Non-Static Variable
+        static string Message = "Good Morning"; //Static Variable
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
