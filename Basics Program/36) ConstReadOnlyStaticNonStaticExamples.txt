@@ -1,0 +1,42 @@
+using System;
+
+namespace ConstReadOnlyStaticNonStaticExamples
+{
+    internal class Program
+    {
+        const float pi = 3.14f; //Constant Variable
+        static int staticNumber = 10; //Static variable
+        //Initialize variable Number X and Y through constructor
+        int X;
+        readonly int Y;
+        //Constructor
+        public Program(int x, int y)
+        {
+            //Initialize non-static variable
+            this.X = x;
+            //Initialize readOnly variable
+            this.Y = y;
+        }
+        static void Main(string[] args)
+        {
+            // Accessing the static variable without instance 
+            Console.WriteLine($"Static value is: {staticNumber}");
+            // Accessing the constant variable without instance
+            Console.WriteLine($"Constant value is: {pi}");
+
+            //Creating two Instance 
+            Program _Object1 = new Program(15,25);
+            Program _Object2 = new Program(35, 45);
+            // Accessing Non-Static and ReadOnly variables using instance
+            Console.WriteLine($"Object1 Non-Static X value is {_Object1.X} and ReadOnly Y value is {_Object1.Y}");
+            Console.WriteLine($"Object1 Non-Static X value is {_Object2.X} and ReadOnly Y value is {_Object2.Y}");
+            Console.ReadKey();
+        }
+    }
+}
+
+//OutPut:
+//Static value is: 10
+//Constant value is: 3.14
+//Object1 Non-Static X value is 15 and ReadOnly Y value is 25
+//Object1 Non-Static X value is 35 and ReadOnly Y value is 45
