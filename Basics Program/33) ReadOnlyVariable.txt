@@ -1,0 +1,21 @@
+using System;
+
+namespace ReadOnlyVariable
+{
+    internal class Program
+    {
+        readonly int number; //ReadOnly Variable
+        static void Main(string[] args)
+        {
+            Program ProgramObject = new Program();
+            //Accessing ReadyOnly variables using instance
+
+            Console.WriteLine($"{ProgramObject.number}");
+            Console.ReadKey();  
+        }
+    }
+}
+//Output: 0
+//In this above example, the read-only variable x is not initialized with any value but when we 
+//print the value of the variable using the instance, the default value 
+//of int i.e. 0 will be displayed.

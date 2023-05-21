@@ -1,0 +1,21 @@
+using System;
+
+namespace ConstractorInitializeReadOnlyVariable
+{
+    internal class Program
+    {
+        readonly int Number;
+        public Program()
+        {
+            Number = 20;
+        }
+        static void Main(string[] args)
+        {
+            Program _Object = new Program();
+
+            Console.WriteLine($"{_Object.Number}");
+            Console.ReadKey();
+        }
+    }
+}
+//Output: 20

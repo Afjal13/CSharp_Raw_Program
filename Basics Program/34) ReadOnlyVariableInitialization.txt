@@ -1,0 +1,17 @@
+using System;
+
+namespace ReadOnlyVariableInitialization
+{
+    internal class Program
+    {
+        readonly int Number = 10; //readonly variable initialization within value 10 at the declaration time
+        static void Main(string[] args)
+        {
+            Program ProgramObject = new Program();
+
+            Console.WriteLine($"{ProgramObject.Number}");
+            Console.ReadKey();
+        }
+    }
+}
+//Output: 10
