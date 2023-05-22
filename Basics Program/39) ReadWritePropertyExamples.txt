@@ -1,0 +1,73 @@
+using System;
+
+namespace ReadWritePropertyExamples
+{
+    // Create an Employee class within four field
+    public class Employee
+    {
+        //Private Data Members
+        private int _EmpId, _EmpAge;
+        private string _EmpName,_EmpAddress;
+
+        //Public Properties
+        public int Id
+        {
+            //The Set Accessor is used to set the _EmpId private variable value
+            set { _EmpId = value; }
+            //The Get Accessor is used to return the _EmpId private variable value
+            get { return _EmpId; }
+        }
+        public int Age
+        {
+            //The Set Accessor is used to set the _EmpAge private variable value
+            set { _EmpAge = value; }
+            //The Get Accessor is used to return the _EmpAge private variable value
+            get { return _EmpAge; }
+        }
+        public string Name
+        {
+            //The Set Accessor is used to set the _EmpName private variable value
+            set { _EmpName = value; }
+            //The Get Accessor is used to return the _EmpName private variable value
+            get { return _EmpName; }
+        }
+        public string Address
+        {
+            //The Set Accessor is used to set the _EmpAddress private variable value
+            set { _EmpAddress=value; }
+            //The Get Accessor is used to return the _EmpAddress private variable value
+            get { return _EmpAddress; }
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Creating an instance of Employee class
+            Employee emp = new Employee();
+            //We cannot access the private data members
+            //So, using public properties (SET Accessor) we are setting 
+            //the values of private data members
+            emp.Id = 101;
+            emp.Age = 28;
+            emp.Name = "Afjal Hossain";
+            emp.Address = "West raja Bzar, Dhaka 1217";
+
+            //Using public properties (Get Accessor) we are Getting 
+            //the values of private data members
+            Console.WriteLine("Employee Details:");
+            Console.WriteLine($"ID: {emp.Id}");
+            Console.WriteLine($"Name: {emp.Name}");
+            Console.WriteLine($"Age: {emp.Age}");
+            Console.WriteLine($"Address: {emp.Address}");
+            //Hold the console window
+            Console.ReadKey();
+        }
+    }
+}
+//OutPut:
+//Employee Details:
+//ID: 101
+//Name: Afjal Hossain
+//Age: 28
+//Address: West raja Bzar, Dhaka 1217
