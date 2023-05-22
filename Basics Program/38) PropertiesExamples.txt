@@ -1,0 +1,56 @@
+using System;
+
+namespace PropertiesExamples
+{
+   public class Employee
+    {
+        //Private Data Members
+        private int _EmpId;
+        private string _EmpName;
+        
+        //Public Properties
+        public int EmpId
+        {
+            //The Set Accessor is used to set the _EmpId private variable value
+            set { _EmpId = value; }
+            
+            //The Get Accessor is used to return the _EmpId private variable value
+            get { return _EmpId; }
+        }
+        public string EmpName
+        {
+            //The Set Accessor is used to set the _EmpName private variable value
+            set { _EmpName = value; }
+
+            //The Get Accessor is used to return the _EmpName private variable value
+            get { return _EmpName; }
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //creating an employee instance of Employee class
+            Employee emp = new Employee();
+
+            //We cannot access the private data members
+            //So, using public properties (SET Accessor) we are setting 
+            //the values of private data members
+            emp.EmpId = 101;
+            emp.EmpName = "Test";
+
+            //Using public properties (Get Accessor) we are Getting 
+            //the values of private data members
+            Console.WriteLine("Employee Details:");
+            Console.WriteLine($" ID: {emp.EmpId}");
+            Console.WriteLine($" Name: {emp.EmpName}");
+
+            //keep the console window
+            Console.ReadKey();
+        }
+    }
+}
+//Output:
+//Employee Details:
+// ID: 101
+// Name: Test
