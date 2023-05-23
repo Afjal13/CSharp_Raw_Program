@@ -1,0 +1,80 @@
+using System;
+
+namespace ReadOnlyWriteOnlyPropertiesDemo
+{
+    //Create an calculator class
+    public class Calculator
+    {
+        // write three private field
+        private int _FirstNumber, _SecondNumber, _Result;
+
+        //Write-Only Properties
+        //Only Set Accessor, No Get Accessor
+        public int FirstNumber
+        {
+            set { _FirstNumber = value; }
+
+        }
+        public int SecondNumber
+        {
+            set { _SecondNumber = value; }
+        }
+        
+        //Read-Only Property
+        //Only Get Accessor, No Set Accessor
+        public int Result
+        {
+            get { return _Result; }
+        }
+        public void Add()
+        {
+            _Result = _FirstNumber+_SecondNumber;
+        }
+        public void Sub()
+        {
+            _Result = _FirstNumber - _SecondNumber;
+        }
+        public void Mul()
+        {
+            _Result = _FirstNumber * _SecondNumber;
+        }
+        public void Div()
+        {
+            _Result = _FirstNumber / _SecondNumber;
+        }
+
+        internal class Program
+        {
+            static void Main(string[] args)
+            {
+                Calculator calculator = new Calculator();
+                Console.WriteLine("Enter Two Integer Number: ");
+                Console.Write("Enter First Number:__");
+                calculator._FirstNumber = Convert.ToInt32(Console.ReadLine());
+                Console.Write("Enter Second Number:__");
+                calculator._SecondNumber = Convert.ToInt32(Console.ReadLine());
+
+                calculator.Add();
+                Console.WriteLine($"The Sum is : {calculator.Result}");   
+                calculator.Sub();
+                Console.WriteLine($"The Sub is : {calculator.Result}");
+                calculator.Mul();
+                Console.WriteLine($"The Mul is : {calculator.Result}");
+                calculator.Div();
+                Console.WriteLine($"The Div is : {calculator.Result}");
+
+                //Hold the console window
+                Console.ReadKey();
+            }
+        }
+    }
+}
+
+//OutPut:
+//Enter Two Integer Number:
+//Enter First Number:__15
+//Enter Second Number:__5
+//The Sum is : 20
+//The Sub is : 10
+//The Mul is : 75
+//The Div is : 3
