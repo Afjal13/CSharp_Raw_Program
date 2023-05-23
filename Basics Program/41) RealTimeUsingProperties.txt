@@ -1,0 +1,65 @@
+using System;
+
+namespace RealTimeUsingProperties
+{
+    public class Student
+    {
+        private int _Id;
+        private string _Name;
+        private int _PassMark = 35;
+
+        public int Id
+        {
+            set
+            {
+                if (value < 0)
+                {
+                    throw new Exception("id value should be greater then zero");
+                }
+                _Id = value;
+            }
+            get
+            {
+                return _Id;
+            }
+            
+        }
+        public string Name
+        {
+            set
+            {
+                if (string.IsNullOrEmpty(value))
+                {
+                    throw new Exception("Name should not be empty");
+                }
+                _Name = value;
+            }
+            get { return _Name; }
+        }
+       
+      
+        public int PassMark
+        {
+            get { return _PassMark; }
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Student student = new Student();
+            student.Id=101;
+            student.Name="Test Name";
+           
+            Console.WriteLine($"Student Details:\nName : {student.Name}\nId: {student.Id}\nPass Mark: {student.PassMark}");
+            //Hold the console window
+            Console.ReadKey();
+        }
+    }
+}
+
+//Output:
+//Student Details:
+//Name: Test Name
+//Id: 101
+//Pass Mark: 35
