@@ -1,0 +1,34 @@
+using System;
+
+namespace OverridingToStringMethod
+{
+    public class Mammal
+    {
+        public string Name { get; set; }
+        public override string ToString()
+        {
+            return Name;
+        }
+    }
+    public class Panda:Mammal
+    {
+        public override string ToString()
+        {
+            return "Test";
+        }
+
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Panda panda = new Panda();
+            Mammal mammal = new Panda();
+            mammal.Name = "Afjal";
+            string something = mammal.ToString();
+            Console.WriteLine(something);
+        }
+    }
+}
+
+//Output: Test
