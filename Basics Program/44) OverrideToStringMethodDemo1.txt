@@ -1,0 +1,50 @@
+using System;
+
+namespace OverrideToStringMethodDemo1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // ToString() = converts an object to its string representation
+            // so that it is suitable for display
+            Car car = new Car("Chevy", "Corvette", 2023, "cT-101", "White");
+            Console.WriteLine(car.ToString());
+           //Hold the console window
+           Console.ReadKey();
+        }
+    }
+
+    public class Car
+    {
+        public string Name { get; set; }
+        public string Model { get; set; }
+        public int Year { get; set; }
+        public string EngineNo { get; set; }
+        public string Color { get; set; }
+
+        public Car(string name, string model, int year, string engineNo, string color)
+        {
+            this.Name = name;
+            this.Model = model;
+            this.Year = year;
+            this.EngineNo = engineNo;
+            this.Color = color;
+        }
+
+        public override string ToString()
+        {
+            string Message = "The Car Details:-\nName is: "+Name+ "\n"+"Model is: "+Model+"\n"
+                +"Year: "+Year+"\n"+"Engine No: "+EngineNo+"\n"+"Color: "+Color;
+            return Message;
+        }
+    }
+}
+//Output:
+//The Car Details: -
+//Name is: Chevy
+//Model is: Corvette
+//Year: 2023
+//Engine No: cT - 101
+//Color: White
+
