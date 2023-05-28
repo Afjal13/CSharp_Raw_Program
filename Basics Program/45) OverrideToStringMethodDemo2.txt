@@ -1,0 +1,57 @@
+using System;
+
+namespace OverrideToStringMethodDemo2
+{
+    public class Person
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+
+        public Person(string name, int age)
+        {
+            this.Name = name;
+            this.Age = age;
+        }
+        //step-3
+        public string PrintPerson()
+        {
+            return $"The Person Name is {Name} & Age is {Age}";
+        }
+        //step-4
+        public override string ToString()
+        {
+            return $"The Person Name is {Name} & Age is {Age}";
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Person person = new Person("Afjal", 28);
+            //print method:8
+            Console.WriteLine(person);
+            //print method:7
+            Console.WriteLine(person.ToString());
+            //print method:6
+            Console.WriteLine(person.ToString());
+            //print method:5
+            Console.WriteLine(person);    
+            //print method:3
+            Console.WriteLine(person.PrintPerson());
+            //print method:2
+            Console.WriteLine(PrintPerson(person));
+            //print method:1
+            Console.WriteLine($"The Person Name is {person.Name} & Age is {person.Age}");
+            //step-1
+            //print method:0
+            int number = 25;
+            Console.WriteLine(number.ToString());
+            Console.ReadKey();
+        }
+        //step-2
+        static string PrintPerson(Person person)
+        {
+            return $"The Person Name is {person.Name} & Age is {person.Age}";
+        }
+    }
+}
