@@ -1,0 +1,39 @@
+using System;
+
+namespace OverrideToStringMethodDemo3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = 10;
+            //easy to string representation of (integer type) number 
+            Console.WriteLine(number.ToString());
+            //but when to string representation of composite custom type without ToString method override like
+            Customer customer = new Customer();
+            customer.FirstName = "Afjal";
+            customer.LastName = " Hossain";
+
+            Console.WriteLine(customer.ToString());
+
+            //after override ToString method we get our string resepresentation of compsite custom type like that
+            Console.WriteLine(customer.ToString());
+            //Now we can directly represent instancde name with same output
+            Console.WriteLine(customer);
+            //hold the console window 
+            Console.ReadKey();
+        }
+    }
+
+    public class Customer
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+
+        //Call Override ToString method
+        public override string ToString()
+        {
+            return $"{LastName},{FirstName}"; //using string interpulation formatting
+        }
+    }
+}
