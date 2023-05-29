@@ -1,0 +1,67 @@
+using System;
+
+namespace OverrideToStringMethodRealTimeExample
+{
+    public class Person
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public Address Address { get; set; }
+
+        public Person(string firstName, string lastName, Address address)
+        {
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.Address = address;
+        }
+
+        public override string ToString()
+        {
+            return $"    Name : {FirstName} {LastName} \n Address : {Address}";
+
+        }
+    }
+
+    public class Address
+    {
+        public string StreetName { get; set; }
+        public string City { get; set; }
+        public string Country { get; set; }
+
+        public Address(string streetName, string city, string country)
+        {
+            this.StreetName = streetName;
+            this.City = city;
+            this.Country = country;
+        }
+
+        public override string ToString()
+        {
+            return $"\n\tStreet : {StreetName}\n\tCity : {City}\n\tCountry : {Country}";
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Address address = new Address("West Raza Bazar Road", "Dhaka", "Bangladesh");
+            Person person = new Person("Afjal", "Hossain", address);
+            Console.WriteLine("\nPerson Details:");
+            Console.WriteLine(person);
+            Console.ReadKey();
+        }
+    }
+}
+//output:
+
+//Person Details:
+//    Name: Afjal Hossain
+// Address:
+//Street: West Raza Bazar Road
+//        City : Dhaka
+//        Country : Bangladesh
+
+
+
+
+
