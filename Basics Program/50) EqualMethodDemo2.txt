@@ -1,0 +1,29 @@
+using System;
+
+namespace EqualMethodDemo2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Directions direction1 = Directions.North;
+            Directions direction2 = Directions.North;
+            Console.WriteLine(direction1==direction2);
+            Console.WriteLine(direction1.Equals(direction2));
+
+            Console.ReadKey();  
+        }
+    }
+
+    public enum Directions
+    {
+        East=1,
+        North=2,
+        South=3,
+        West=4
+    }
+}
+
+//Output:
+//True
+//True

@@ -1,0 +1,38 @@
+using System;
+
+namespace EqualsMethodDemo3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+           Customer customer1 = new Customer();
+            customer1.FirstName = "Afjal";
+            customer1.LastName = "Hossain";
+
+            Customer customer2 =customer1;
+            customer2.FirstName = "TestF";
+            customer2.LastName = "TestL";
+
+            Customer customer3 = new Customer();
+            customer3.FirstName = "Afjal";
+            customer3.LastName = "Hossain";
+
+
+            Console.WriteLine($"customer1==customer2: {customer1==customer2}");
+            Console.WriteLine($"customer1.Equals(customer2): {customer1.Equals(customer2)}");
+
+            Console.WriteLine($"customer1==customer3: {customer1 == customer3}");
+            Console.WriteLine($"customer1.Equals(customer3): {customer1.Equals(customer3)}");
+
+            Console.ReadKey();
+
+        }
+    }
+
+    public class Customer
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+    }
+}

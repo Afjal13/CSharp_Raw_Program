@@ -1,0 +1,22 @@
+using System;
+
+namespace EqualMethodDemo1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int Number1 = 10;
+            int Number2 = 10;
+            Console.WriteLine($"Number1 == Number2 : {Number1==Number2}");
+            Console.WriteLine($"Number1.Equals.(Number2) : {Number1.Equals(Number2)}");
+
+            Console.ReadKey();  
+
+        }
+    }
+}
+
+//output:
+//Number1 == Number2 : True
+//Number1.Equals.(Number2) : True
