@@ -1,0 +1,63 @@
+using System;
+
+namespace OverrideEqualsMethodWithGetHashCodeDemo
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+          Customer customer1 = new Customer();
+            customer1.FirstName = "Afjal";
+            customer1.LastName = "Hossain";
+
+            Customer customer2 = new Customer();
+            customer2.FirstName = "Afjal";
+            customer2.LastName = "Hossain";
+
+            var hashcode1 = customer1.GetHashCode();
+            var hashcode2 = customer2.GetHashCode();
+
+            Console.WriteLine($"customer1.GetHashCode == customer2.GetHashCode:{hashcode1 == hashcode2}");
+            Console.WriteLine($"customer1 == customer2:{customer1 == customer2}");
+            Console.WriteLine($"customer1.Equals(customer2):{customer1.Equals(customer2)}");
+           
+            //Hold the console window
+            Console.ReadKey();
+        }
+    }
+
+
+    public class Customer
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+
+        public override bool Equals(object obj)
+        {
+            // If the passed object is null
+            if (obj == null)
+                return false;
+            // If the passed object is not customer 
+            if (!(obj is Customer))
+                return false;
+
+            return (FirstName == ((Customer)obj).FirstName && LastName == ((Customer)obj).LastName);
+           // return base.Equals(obj);
+        }
+        //Overriding the GetHashCode method
+        //GetHashCode method generates hashcode for the current object
+        public override int GetHashCode()
+        {
+            //Performing BIT wise OR Operation on the generated hashcode values
+            //If the corresponding bits are different, it gives 1.
+            //If the corresponding bits are the same, it gives 0.
+            return (FirstName.GetHashCode() ^ LastName.GetHashCode());
+            //return base.GetHashCode(); 
+        }
+    }
+}
+
+//Output:
+//customer1.GetHashCode == customer2.GetHashCode:True
+//customer1 == customer2:False
+//customer1.Equals(customer2):True
