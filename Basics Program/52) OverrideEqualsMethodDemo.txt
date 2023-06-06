@@ -1,0 +1,47 @@
+using System;
+
+namespace OverrideEqualsMethodDemo
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Customer customer1 = new Customer();
+            customer1.FirstName = "Afjal";
+            customer1.LastName = "Hossain";
+
+            Customer customer2 = new Customer();
+            customer2.FirstName = "Afjal";
+            customer2.LastName = "Hossain";
+
+            Console.WriteLine($"customer1==customer2 : {customer1 == customer2}");
+            Console.WriteLine($"customer1.Equals(customer2) : {customer1.Equals(customer2)}");
+        }
+    }
+
+    public class Customer
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+
+        public override bool Equals(object obj)
+        {
+            //If the passed object is null, return false
+            if (obj == null)
+            {
+                return false;
+            }
+            //If the passed object is not Customer Type, return false
+            if (!(obj is Customer))
+            {
+                return false;
+            }
+
+            return (this.FirstName == ((Customer)obj).FirstName) && (this.LastName == ((Customer)obj).LastName);
+            //return base.Equals(obj);
+        }
+    }
+}
+//Output:
+//customer1 == customer2 : False
+//  customer1.Equals(customer2) : True
