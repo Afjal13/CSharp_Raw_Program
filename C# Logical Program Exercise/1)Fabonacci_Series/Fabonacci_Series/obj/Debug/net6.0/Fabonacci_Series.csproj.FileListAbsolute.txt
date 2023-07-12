@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\bin\Debug\net6.0\Fabonacci_Series.exe
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\bin\Debug\net6.0\Fabonacci_Series.deps.json
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\bin\Debug\net6.0\Fabonacci_Series.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\bin\Debug\net6.0\Fabonacci_Series.dll
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\bin\Debug\net6.0\Fabonacci_Series.pdb
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\Fabonacci_Series.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\Fabonacci_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\Fabonacci_Series.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\Fabonacci_Series.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\Fabonacci_Series.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\Fabonacci_Series.dll
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\refint\Fabonacci_Series.dll
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\Fabonacci_Series.pdb
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\Fabonacci_Series.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day7\Fabonacci_Series\Fabonacci_Series\obj\Debug\net6.0\ref\Fabonacci_Series.dll
