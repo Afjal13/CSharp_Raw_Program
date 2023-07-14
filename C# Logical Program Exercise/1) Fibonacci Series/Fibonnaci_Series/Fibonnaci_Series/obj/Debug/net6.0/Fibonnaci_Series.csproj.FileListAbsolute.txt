@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\bin\Debug\net6.0\Fibonnaci_Series.exe
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\bin\Debug\net6.0\Fibonnaci_Series.deps.json
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\bin\Debug\net6.0\Fibonnaci_Series.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\bin\Debug\net6.0\Fibonnaci_Series.dll
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\bin\Debug\net6.0\Fibonnaci_Series.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\Fibonnaci_Series.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\Fibonnaci_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\Fibonnaci_Series.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\Fibonnaci_Series.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\Fibonnaci_Series.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\Fibonnaci_Series.dll
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\refint\Fibonnaci_Series.dll
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\Fibonnaci_Series.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\Fibonnaci_Series.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day8\Fibonnaci_Series\Fibonnaci_Series\obj\Debug\net6.0\ref\Fibonnaci_Series.dll
