@@ -13,3 +13,18 @@ C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\
 C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.pdb
 C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.genruntimeconfig.cache
 C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\ref\PalindrimeNumberCheck.dll
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.exe
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.deps.json
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.runtimeconfig.json
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.dll
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.pdb
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.csproj.AssemblyReference.cache
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.AssemblyInfoInputs.cache
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.AssemblyInfo.cs
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.csproj.CoreCompileInputs.cache
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.dll
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\refint\PalindrimeNumberCheck.dll
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.pdb
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.genruntimeconfig.cache
+C:\LocalDrive\CSharp Raw Program\C# Logical Program Exercise\3) Check Number Palindrome or Not\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\ref\PalindrimeNumberCheck.dll

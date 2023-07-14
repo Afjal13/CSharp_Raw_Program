@@ -17,5 +17,4 @@ if (temp == sum)
     Console.WriteLine($"{temp} is Palindrome!");
 else
     Console.WriteLine($"{temp} is not Palindrome!");
-
 Console.ReadKey();

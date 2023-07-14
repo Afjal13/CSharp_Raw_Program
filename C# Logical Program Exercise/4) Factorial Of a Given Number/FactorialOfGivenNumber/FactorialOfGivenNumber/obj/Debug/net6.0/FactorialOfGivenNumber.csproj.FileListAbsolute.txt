@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\bin\Debug\net6.0\FactorialOfGivenNumber.exe
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\bin\Debug\net6.0\FactorialOfGivenNumber.deps.json
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\bin\Debug\net6.0\FactorialOfGivenNumber.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\bin\Debug\net6.0\FactorialOfGivenNumber.dll
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\bin\Debug\net6.0\FactorialOfGivenNumber.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\FactorialOfGivenNumber.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\FactorialOfGivenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\FactorialOfGivenNumber.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\FactorialOfGivenNumber.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\FactorialOfGivenNumber.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\FactorialOfGivenNumber.dll
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\refint\FactorialOfGivenNumber.dll
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\FactorialOfGivenNumber.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\FactorialOfGivenNumber.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day8\FactorialOfGivenNumber\FactorialOfGivenNumber\obj\Debug\net6.0\ref\FactorialOfGivenNumber.dll
