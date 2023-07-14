@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.exe
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.deps.json
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.dll
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\bin\Debug\net6.0\PalindrimeNumberCheck.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.dll
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\refint\PalindrimeNumberCheck.dll
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\PalindrimeNumberCheck.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day8\PalindrimeNumberCheck\PalindrimeNumberCheck\obj\Debug\net6.0\ref\PalindrimeNumberCheck.dll
