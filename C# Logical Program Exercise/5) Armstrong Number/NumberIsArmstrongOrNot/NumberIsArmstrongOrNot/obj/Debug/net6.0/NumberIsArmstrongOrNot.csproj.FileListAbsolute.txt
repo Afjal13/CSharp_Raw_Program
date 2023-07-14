@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\bin\Debug\net6.0\NumberIsArmstrongOrNot.exe
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\bin\Debug\net6.0\NumberIsArmstrongOrNot.deps.json
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\bin\Debug\net6.0\NumberIsArmstrongOrNot.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\bin\Debug\net6.0\NumberIsArmstrongOrNot.dll
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\bin\Debug\net6.0\NumberIsArmstrongOrNot.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\NumberIsArmstrongOrNot.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\NumberIsArmstrongOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\NumberIsArmstrongOrNot.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\NumberIsArmstrongOrNot.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\NumberIsArmstrongOrNot.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\NumberIsArmstrongOrNot.dll
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\refint\NumberIsArmstrongOrNot.dll
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\NumberIsArmstrongOrNot.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\NumberIsArmstrongOrNot.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day8\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\net6.0\ref\NumberIsArmstrongOrNot.dll
