@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\bin\Debug\net6.0\SumOfDigits.exe
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\bin\Debug\net6.0\SumOfDigits.deps.json
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\bin\Debug\net6.0\SumOfDigits.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\bin\Debug\net6.0\SumOfDigits.dll
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\bin\Debug\net6.0\SumOfDigits.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\SumOfDigits.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\SumOfDigits.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\SumOfDigits.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\SumOfDigits.dll
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\refint\SumOfDigits.dll
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\SumOfDigits.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\SumOfDigits.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day8\SumOfDigits\SumOfDigits\obj\Debug\net6.0\ref\SumOfDigits.dll
