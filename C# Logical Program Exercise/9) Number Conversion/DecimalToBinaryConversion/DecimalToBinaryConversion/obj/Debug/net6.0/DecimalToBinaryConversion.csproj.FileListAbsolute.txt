@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\bin\Debug\net6.0\DecimalToBinaryConversion.exe
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\bin\Debug\net6.0\DecimalToBinaryConversion.deps.json
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\bin\Debug\net6.0\DecimalToBinaryConversion.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\bin\Debug\net6.0\DecimalToBinaryConversion.dll
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\bin\Debug\net6.0\DecimalToBinaryConversion.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\DecimalToBinaryConversion.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\DecimalToBinaryConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\DecimalToBinaryConversion.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\DecimalToBinaryConversion.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\DecimalToBinaryConversion.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\DecimalToBinaryConversion.dll
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\refint\DecimalToBinaryConversion.dll
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\DecimalToBinaryConversion.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\DecimalToBinaryConversion.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day8\DecimalToBinaryConversion\DecimalToBinaryConversion\obj\Debug\net6.0\ref\DecimalToBinaryConversion.dll
