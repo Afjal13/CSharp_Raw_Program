@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\bin\Debug\net6.0\NumberTriangle.exe
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\bin\Debug\net6.0\NumberTriangle.deps.json
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\bin\Debug\net6.0\NumberTriangle.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\bin\Debug\net6.0\NumberTriangle.dll
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\bin\Debug\net6.0\NumberTriangle.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\NumberTriangle.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\NumberTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\NumberTriangle.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\NumberTriangle.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\NumberTriangle.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\NumberTriangle.dll
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\refint\NumberTriangle.dll
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\NumberTriangle.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\NumberTriangle.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day9\NumberTriangle\NumberTriangle\obj\Debug\net6.0\ref\NumberTriangle.dll
