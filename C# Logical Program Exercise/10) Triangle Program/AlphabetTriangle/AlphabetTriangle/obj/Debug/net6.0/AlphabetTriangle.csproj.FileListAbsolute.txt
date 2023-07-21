@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\bin\Debug\net6.0\AlphabetTriangle.exe
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\bin\Debug\net6.0\AlphabetTriangle.deps.json
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\bin\Debug\net6.0\AlphabetTriangle.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\bin\Debug\net6.0\AlphabetTriangle.dll
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\bin\Debug\net6.0\AlphabetTriangle.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\AlphabetTriangle.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\AlphabetTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\AlphabetTriangle.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\AlphabetTriangle.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\AlphabetTriangle.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\AlphabetTriangle.dll
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\refint\AlphabetTriangle.dll
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\AlphabetTriangle.pdb
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\AlphabetTriangle.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day8\AlphabetTriangle\AlphabetTriangle\obj\Debug\net6.0\ref\AlphabetTriangle.dll
