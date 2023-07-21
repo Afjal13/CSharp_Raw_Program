@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\bin\Debug\net6.0\Number_In_Characters.exe
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\bin\Debug\net6.0\Number_In_Characters.deps.json
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\bin\Debug\net6.0\Number_In_Characters.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\bin\Debug\net6.0\Number_In_Characters.dll
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\bin\Debug\net6.0\Number_In_Characters.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\Number_In_Characters.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\Number_In_Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\Number_In_Characters.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\Number_In_Characters.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\Number_In_Characters.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\Number_In_Characters.dll
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\refint\Number_In_Characters.dll
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\Number_In_Characters.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\Number_In_Characters.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day9\Number_In_Characters\Number_In_Characters\obj\Debug\net6.0\ref\Number_In_Characters.dll
