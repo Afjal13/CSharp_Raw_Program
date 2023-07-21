@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\bin\Debug\net6.0\FibonacciTriangle.exe
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\bin\Debug\net6.0\FibonacciTriangle.deps.json
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\bin\Debug\net6.0\FibonacciTriangle.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\bin\Debug\net6.0\FibonacciTriangle.dll
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\bin\Debug\net6.0\FibonacciTriangle.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\FibonacciTriangle.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\FibonacciTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\FibonacciTriangle.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\FibonacciTriangle.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\FibonacciTriangle.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\FibonacciTriangle.dll
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\refint\FibonacciTriangle.dll
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\FibonacciTriangle.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\FibonacciTriangle.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day9\FibonacciTriangle\FibonacciTriangle\obj\Debug\net6.0\ref\FibonacciTriangle.dll
