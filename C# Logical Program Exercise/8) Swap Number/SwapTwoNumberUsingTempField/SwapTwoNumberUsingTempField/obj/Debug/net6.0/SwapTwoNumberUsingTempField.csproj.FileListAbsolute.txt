@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\bin\Debug\net6.0\SwapTwoNumberUsingTempField.exe
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\bin\Debug\net6.0\SwapTwoNumberUsingTempField.deps.json
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\bin\Debug\net6.0\SwapTwoNumberUsingTempField.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\bin\Debug\net6.0\SwapTwoNumberUsingTempField.dll
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\bin\Debug\net6.0\SwapTwoNumberUsingTempField.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\SwapTwoNumberUsingTempField.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\SwapTwoNumberUsingTempField.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\SwapTwoNumberUsingTempField.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\SwapTwoNumberUsingTempField.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\SwapTwoNumberUsingTempField.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\SwapTwoNumberUsingTempField.dll
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\refint\SwapTwoNumberUsingTempField.dll
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\SwapTwoNumberUsingTempField.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\SwapTwoNumberUsingTempField.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day9\SwapTwoNumberUsingTempField\SwapTwoNumberUsingTempField\obj\Debug\net6.0\ref\SwapTwoNumberUsingTempField.dll
