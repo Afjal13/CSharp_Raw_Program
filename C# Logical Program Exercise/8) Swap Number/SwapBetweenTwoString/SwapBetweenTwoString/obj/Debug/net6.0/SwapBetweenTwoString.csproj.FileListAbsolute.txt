@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\bin\Debug\net6.0\SwapBetweenTwoString.exe
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\bin\Debug\net6.0\SwapBetweenTwoString.deps.json
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\bin\Debug\net6.0\SwapBetweenTwoString.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\bin\Debug\net6.0\SwapBetweenTwoString.dll
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\bin\Debug\net6.0\SwapBetweenTwoString.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\SwapBetweenTwoString.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\SwapBetweenTwoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\SwapBetweenTwoString.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\SwapBetweenTwoString.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\SwapBetweenTwoString.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\SwapBetweenTwoString.dll
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\refint\SwapBetweenTwoString.dll
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\SwapBetweenTwoString.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\SwapBetweenTwoString.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day9\SwapBetweenTwoString\SwapBetweenTwoString\obj\Debug\net6.0\ref\SwapBetweenTwoString.dll
