@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\bin\Debug\net6.0\Number_IsPalindrome_OrNot.exe
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\bin\Debug\net6.0\Number_IsPalindrome_OrNot.deps.json
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\bin\Debug\net6.0\Number_IsPalindrome_OrNot.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\bin\Debug\net6.0\Number_IsPalindrome_OrNot.dll
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\bin\Debug\net6.0\Number_IsPalindrome_OrNot.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\Number_IsPalindrome_OrNot.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\Number_IsPalindrome_OrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\Number_IsPalindrome_OrNot.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\Number_IsPalindrome_OrNot.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\Number_IsPalindrome_OrNot.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\Number_IsPalindrome_OrNot.dll
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\refint\Number_IsPalindrome_OrNot.dll
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\Number_IsPalindrome_OrNot.pdb
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\Number_IsPalindrome_OrNot.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day9\Number_IsPalindrome_OrNot\Number_IsPalindrome_OrNot\obj\Debug\net6.0\ref\Number_IsPalindrome_OrNot.dll
