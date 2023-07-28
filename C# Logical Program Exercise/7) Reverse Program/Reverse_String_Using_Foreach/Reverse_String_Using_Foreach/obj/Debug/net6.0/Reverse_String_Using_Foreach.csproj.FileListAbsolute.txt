@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\bin\Debug\net6.0\Reverse_String_Using_Foreach.exe
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\bin\Debug\net6.0\Reverse_String_Using_Foreach.deps.json
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\bin\Debug\net6.0\Reverse_String_Using_Foreach.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\bin\Debug\net6.0\Reverse_String_Using_Foreach.dll
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\bin\Debug\net6.0\Reverse_String_Using_Foreach.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\Reverse_String_Using_Foreach.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\Reverse_String_Using_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\Reverse_String_Using_Foreach.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\Reverse_String_Using_Foreach.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\Reverse_String_Using_Foreach.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\Reverse_String_Using_Foreach.dll
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\refint\Reverse_String_Using_Foreach.dll
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\Reverse_String_Using_Foreach.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\Reverse_String_Using_Foreach.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Reverse_String_Using_Foreach\Reverse_String_Using_Foreach\obj\Debug\net6.0\ref\Reverse_String_Using_Foreach.dll
