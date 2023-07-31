@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\LocalDrive\\DotNet Tutorials\\Day10\\Factorial_Using_DoWhileLoop\\Factorial_Using_DoWhileLoop\\Factorial_Using_DoWhileLoop.csproj": {}
+  },
+  "projects": {
+    "C:\\LocalDrive\\DotNet Tutorials\\Day10\\Factorial_Using_DoWhileLoop\\Factorial_Using_DoWhileLoop\\Factorial_Using_DoWhileLoop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\LocalDrive\\DotNet Tutorials\\Day10\\Factorial_Using_DoWhileLoop\\Factorial_Using_DoWhileLoop\\Factorial_Using_DoWhileLoop.csproj",
+        "projectName": "Factorial_Using_DoWhileLoop",
+        "projectPath": "C:\\LocalDrive\\DotNet Tutorials\\Day10\\Factorial_Using_DoWhileLoop\\Factorial_Using_DoWhileLoop\\Factorial_Using_DoWhileLoop.csproj",
+        "packagesPath": "C:\\Users\\Afjal Hossain\\.nuget\\packages\\",
+        "outputPath": "C:\\LocalDrive\\DotNet Tutorials\\Day10\\Factorial_Using_DoWhileLoop\\Factorial_Using_DoWhileLoop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Afjal Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

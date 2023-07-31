@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\bin\Debug\net6.0\Factorial_Using_DoWhileLoop.exe
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\bin\Debug\net6.0\Factorial_Using_DoWhileLoop.deps.json
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\bin\Debug\net6.0\Factorial_Using_DoWhileLoop.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\bin\Debug\net6.0\Factorial_Using_DoWhileLoop.dll
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\bin\Debug\net6.0\Factorial_Using_DoWhileLoop.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\Factorial_Using_DoWhileLoop.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\Factorial_Using_DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\Factorial_Using_DoWhileLoop.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\Factorial_Using_DoWhileLoop.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\Factorial_Using_DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\Factorial_Using_DoWhileLoop.dll
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\refint\Factorial_Using_DoWhileLoop.dll
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\Factorial_Using_DoWhileLoop.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\Factorial_Using_DoWhileLoop.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_DoWhileLoop\Factorial_Using_DoWhileLoop\obj\Debug\net6.0\ref\Factorial_Using_DoWhileLoop.dll
