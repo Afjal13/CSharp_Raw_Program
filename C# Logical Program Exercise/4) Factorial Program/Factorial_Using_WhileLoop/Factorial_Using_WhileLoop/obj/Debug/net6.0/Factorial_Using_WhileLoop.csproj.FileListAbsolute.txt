@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\bin\Debug\net6.0\Factorial_Using_WhileLoop.exe
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\bin\Debug\net6.0\Factorial_Using_WhileLoop.deps.json
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\bin\Debug\net6.0\Factorial_Using_WhileLoop.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\bin\Debug\net6.0\Factorial_Using_WhileLoop.dll
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\bin\Debug\net6.0\Factorial_Using_WhileLoop.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\Factorial_Using_WhileLoop.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\Factorial_Using_WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\Factorial_Using_WhileLoop.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\Factorial_Using_WhileLoop.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\Factorial_Using_WhileLoop.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\Factorial_Using_WhileLoop.dll
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\refint\Factorial_Using_WhileLoop.dll
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\Factorial_Using_WhileLoop.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\Factorial_Using_WhileLoop.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day10\Factorial_Using_WhileLoop\Factorial_Using_WhileLoop\obj\Debug\net6.0\ref\Factorial_Using_WhileLoop.dll
