@@ -1,0 +1,15 @@
+//What is output of this program
+
+int variable1, variable2=2, variable3;
+
+variable1 = 2 * (variable2++);
+variable3 = 2 * (++variable2);
+
+Console.Write($"Result:\nVariale1 is: {variable1}\nVariable2 is: {variable2}\nVariable3 is: {variable3}");
+Console.ReadKey();
+
+//output:
+//Result:
+//Variale1 is: 4
+//Variable2 is: 4
+//Variable3 is: 8

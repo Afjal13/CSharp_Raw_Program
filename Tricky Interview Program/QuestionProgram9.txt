@@ -1,0 +1,10 @@
+//What is the value of variable3
+int variable1=5, variable2=9;
+float variable3;
+variable3 = variable2 /variable1;
+
+Console.Write($"The value of Variable3 is: {variable3}");
+Console.ReadKey();
+
+//Output:
+//The value of Variable3 is: 1
