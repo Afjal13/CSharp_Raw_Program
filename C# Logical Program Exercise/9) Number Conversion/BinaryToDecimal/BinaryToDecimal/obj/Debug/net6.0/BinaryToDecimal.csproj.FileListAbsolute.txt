@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.exe
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.deps.json
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.dll
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\bin\Debug\net6.0\BinaryToDecimal.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.dll
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\refint\BinaryToDecimal.dll
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\BinaryToDecimal.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day10\BinaryToDecimal\BinaryToDecimal\obj\Debug\net6.0\ref\BinaryToDecimal.dll
