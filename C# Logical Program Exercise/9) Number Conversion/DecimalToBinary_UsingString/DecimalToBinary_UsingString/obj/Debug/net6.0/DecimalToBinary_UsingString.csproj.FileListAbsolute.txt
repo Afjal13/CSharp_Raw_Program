@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\bin\Debug\net6.0\DecimalToBinary_UsingString.exe
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\bin\Debug\net6.0\DecimalToBinary_UsingString.deps.json
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\bin\Debug\net6.0\DecimalToBinary_UsingString.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\bin\Debug\net6.0\DecimalToBinary_UsingString.dll
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\bin\Debug\net6.0\DecimalToBinary_UsingString.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\DecimalToBinary_UsingString.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\DecimalToBinary_UsingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\DecimalToBinary_UsingString.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\DecimalToBinary_UsingString.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\DecimalToBinary_UsingString.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\DecimalToBinary_UsingString.dll
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\refint\DecimalToBinary_UsingString.dll
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\DecimalToBinary_UsingString.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\DecimalToBinary_UsingString.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day10\DecimalToBinary_UsingString\DecimalToBinary_UsingString\obj\Debug\net6.0\ref\DecimalToBinary_UsingString.dll
