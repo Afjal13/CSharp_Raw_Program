@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\bin\Debug\net6.0\CharacterOccurrence_UsingLoop.exe
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\bin\Debug\net6.0\CharacterOccurrence_UsingLoop.deps.json
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\bin\Debug\net6.0\CharacterOccurrence_UsingLoop.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\bin\Debug\net6.0\CharacterOccurrence_UsingLoop.dll
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\bin\Debug\net6.0\CharacterOccurrence_UsingLoop.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\CharacterOccurrence_UsingLoop.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\CharacterOccurrence_UsingLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\CharacterOccurrence_UsingLoop.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\CharacterOccurrence_UsingLoop.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\CharacterOccurrence_UsingLoop.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\CharacterOccurrence_UsingLoop.dll
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\refint\CharacterOccurrence_UsingLoop.dll
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\CharacterOccurrence_UsingLoop.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\CharacterOccurrence_UsingLoop.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrence_UsingLoop\CharacterOccurrence_UsingLoop\obj\Debug\net6.0\ref\CharacterOccurrence_UsingLoop.dll
