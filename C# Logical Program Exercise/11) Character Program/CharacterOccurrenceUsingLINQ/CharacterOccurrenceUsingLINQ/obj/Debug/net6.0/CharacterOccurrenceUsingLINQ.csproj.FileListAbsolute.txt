@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\bin\Debug\net6.0\CharacterOccurrenceUsingLINQ.exe
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\bin\Debug\net6.0\CharacterOccurrenceUsingLINQ.deps.json
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\bin\Debug\net6.0\CharacterOccurrenceUsingLINQ.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\bin\Debug\net6.0\CharacterOccurrenceUsingLINQ.dll
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\bin\Debug\net6.0\CharacterOccurrenceUsingLINQ.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\CharacterOccurrenceUsingLINQ.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\CharacterOccurrenceUsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\CharacterOccurrenceUsingLINQ.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\CharacterOccurrenceUsingLINQ.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\CharacterOccurrenceUsingLINQ.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\CharacterOccurrenceUsingLINQ.dll
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\refint\CharacterOccurrenceUsingLINQ.dll
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\CharacterOccurrenceUsingLINQ.pdb
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\CharacterOccurrenceUsingLINQ.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day10\CharacterOccurrenceUsingLINQ\CharacterOccurrenceUsingLINQ\obj\Debug\net6.0\ref\CharacterOccurrenceUsingLINQ.dll
