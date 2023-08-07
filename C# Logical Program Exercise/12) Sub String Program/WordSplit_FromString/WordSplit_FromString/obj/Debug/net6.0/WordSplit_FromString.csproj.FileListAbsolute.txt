@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\bin\Debug\net6.0\WordSplit_FromString.exe
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\bin\Debug\net6.0\WordSplit_FromString.deps.json
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\bin\Debug\net6.0\WordSplit_FromString.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\bin\Debug\net6.0\WordSplit_FromString.dll
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\bin\Debug\net6.0\WordSplit_FromString.pdb
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\WordSplit_FromString.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\WordSplit_FromString.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\WordSplit_FromString.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\WordSplit_FromString.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\WordSplit_FromString.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\WordSplit_FromString.dll
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\refint\WordSplit_FromString.dll
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\WordSplit_FromString.pdb
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\WordSplit_FromString.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day11\WordSplit_FromString\WordSplit_FromString\obj\Debug\net6.0\ref\WordSplit_FromString.dll
