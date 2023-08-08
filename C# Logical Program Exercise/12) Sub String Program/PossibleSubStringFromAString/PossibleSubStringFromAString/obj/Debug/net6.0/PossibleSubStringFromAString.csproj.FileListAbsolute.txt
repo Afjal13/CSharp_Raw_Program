@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\bin\Debug\net6.0\PossibleSubStringFromAString.exe
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\bin\Debug\net6.0\PossibleSubStringFromAString.deps.json
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\bin\Debug\net6.0\PossibleSubStringFromAString.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\bin\Debug\net6.0\PossibleSubStringFromAString.dll
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\bin\Debug\net6.0\PossibleSubStringFromAString.pdb
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\PossibleSubStringFromAString.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\PossibleSubStringFromAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\PossibleSubStringFromAString.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\PossibleSubStringFromAString.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\PossibleSubStringFromAString.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\PossibleSubStringFromAString.dll
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\refint\PossibleSubStringFromAString.dll
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\PossibleSubStringFromAString.pdb
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\PossibleSubStringFromAString.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day11\PossibleSubStringFromAString\PossibleSubStringFromAString\obj\Debug\net6.0\ref\PossibleSubStringFromAString.dll
