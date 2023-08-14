@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\bin\Debug\net6.0\ArrayProperties.exe
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\bin\Debug\net6.0\ArrayProperties.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\bin\Debug\net6.0\ArrayProperties.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\bin\Debug\net6.0\ArrayProperties.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\bin\Debug\net6.0\ArrayProperties.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\ArrayProperties.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\ArrayProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\ArrayProperties.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\ArrayProperties.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\ArrayProperties.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\ArrayProperties.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\refint\ArrayProperties.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\ArrayProperties.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\ArrayProperties.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayProperties\ArrayProperties\obj\Debug\net6.0\ref\ArrayProperties.dll
