@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\bin\Debug\net6.0\ArrayDemo3.exe
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\bin\Debug\net6.0\ArrayDemo3.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\bin\Debug\net6.0\ArrayDemo3.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\bin\Debug\net6.0\ArrayDemo3.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\bin\Debug\net6.0\ArrayDemo3.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\ArrayDemo3.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\ArrayDemo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\ArrayDemo3.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\ArrayDemo3.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\ArrayDemo3.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\ArrayDemo3.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\refint\ArrayDemo3.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\ArrayDemo3.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\ArrayDemo3.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo3\ArrayDemo3\obj\Debug\net6.0\ref\ArrayDemo3.dll

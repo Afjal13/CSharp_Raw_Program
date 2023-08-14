@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.exe
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\refint\ArrayDemo2.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ref\ArrayDemo2.dll
