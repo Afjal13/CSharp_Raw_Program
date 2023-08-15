@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\bin\Debug\net6.0\Array2D.exe
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\bin\Debug\net6.0\Array2D.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\bin\Debug\net6.0\Array2D.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\bin\Debug\net6.0\Array2D.dll
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\bin\Debug\net6.0\Array2D.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\Array2D.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\Array2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\Array2D.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\Array2D.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\Array2D.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\Array2D.dll
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\refint\Array2D.dll
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\Array2D.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\Array2D.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\Array2D\Array2D\obj\Debug\net6.0\ref\Array2D.dll
