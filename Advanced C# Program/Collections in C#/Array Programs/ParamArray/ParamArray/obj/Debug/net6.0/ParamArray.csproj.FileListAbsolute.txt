@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\bin\Debug\net6.0\ParamArray.exe
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\bin\Debug\net6.0\ParamArray.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\bin\Debug\net6.0\ParamArray.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\bin\Debug\net6.0\ParamArray.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\bin\Debug\net6.0\ParamArray.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\ParamArray.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\ParamArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\ParamArray.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\ParamArray.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\ParamArray.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\ParamArray.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\refint\ParamArray.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\ParamArray.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\ParamArray.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ParamArray\ParamArray\obj\Debug\net6.0\ref\ParamArray.dll
