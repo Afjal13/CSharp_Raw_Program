@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\bin\Debug\net6.0\AddTwoMatrixUsing2DArray.exe
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\bin\Debug\net6.0\AddTwoMatrixUsing2DArray.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\bin\Debug\net6.0\AddTwoMatrixUsing2DArray.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\bin\Debug\net6.0\AddTwoMatrixUsing2DArray.dll
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\bin\Debug\net6.0\AddTwoMatrixUsing2DArray.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\AddTwoMatrixUsing2DArray.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\AddTwoMatrixUsing2DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\AddTwoMatrixUsing2DArray.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\AddTwoMatrixUsing2DArray.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\AddTwoMatrixUsing2DArray.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\AddTwoMatrixUsing2DArray.dll
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\refint\AddTwoMatrixUsing2DArray.dll
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\AddTwoMatrixUsing2DArray.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\AddTwoMatrixUsing2DArray.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\AddTwoMatrixUsing2DArray\AddTwoMatrixUsing2DArray\obj\Debug\net6.0\ref\AddTwoMatrixUsing2DArray.dll
