@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\bin\Debug\net6.0\PassingArrayAsArgs.exe
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\bin\Debug\net6.0\PassingArrayAsArgs.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\bin\Debug\net6.0\PassingArrayAsArgs.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\bin\Debug\net6.0\PassingArrayAsArgs.dll
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\bin\Debug\net6.0\PassingArrayAsArgs.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\PassingArrayAsArgs.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\PassingArrayAsArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\PassingArrayAsArgs.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\PassingArrayAsArgs.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\PassingArrayAsArgs.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\PassingArrayAsArgs.dll
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\refint\PassingArrayAsArgs.dll
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\PassingArrayAsArgs.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\PassingArrayAsArgs.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\PassingArrayAsArgs\PassingArrayAsArgs\obj\Debug\net6.0\ref\PassingArrayAsArgs.dll
