@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\bin\Debug\net6.0\ArrayObjectEqualOrNot.exe
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\bin\Debug\net6.0\ArrayObjectEqualOrNot.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\bin\Debug\net6.0\ArrayObjectEqualOrNot.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\bin\Debug\net6.0\ArrayObjectEqualOrNot.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\bin\Debug\net6.0\ArrayObjectEqualOrNot.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\ArrayObjectEqualOrNot.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\ArrayObjectEqualOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\ArrayObjectEqualOrNot.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\ArrayObjectEqualOrNot.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\ArrayObjectEqualOrNot.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\ArrayObjectEqualOrNot.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\refint\ArrayObjectEqualOrNot.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\ArrayObjectEqualOrNot.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\ArrayObjectEqualOrNot.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayObjectEqualOrNot\ArrayObjectEqualOrNot\obj\Debug\net6.0\ref\ArrayObjectEqualOrNot.dll
