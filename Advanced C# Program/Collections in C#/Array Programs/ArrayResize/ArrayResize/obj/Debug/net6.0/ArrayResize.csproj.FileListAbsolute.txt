@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\bin\Debug\net6.0\ArrayResize.exe
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\bin\Debug\net6.0\ArrayResize.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\bin\Debug\net6.0\ArrayResize.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\bin\Debug\net6.0\ArrayResize.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\bin\Debug\net6.0\ArrayResize.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\ArrayResize.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\ArrayResize.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\ArrayResize.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\ArrayResize.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\ArrayResize.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\ArrayResize.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\refint\ArrayResize.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\ArrayResize.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\ArrayResize.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ArrayResize\ArrayResize\obj\Debug\net6.0\ref\ArrayResize.dll
