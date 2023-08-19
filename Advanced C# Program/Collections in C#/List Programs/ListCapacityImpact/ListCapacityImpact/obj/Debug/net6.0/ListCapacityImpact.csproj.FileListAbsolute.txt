@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\bin\Debug\net6.0\ListCapacityImpact.exe
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\bin\Debug\net6.0\ListCapacityImpact.deps.json
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\bin\Debug\net6.0\ListCapacityImpact.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\bin\Debug\net6.0\ListCapacityImpact.dll
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\bin\Debug\net6.0\ListCapacityImpact.pdb
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\ListCapacityImpact.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\ListCapacityImpact.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\ListCapacityImpact.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\ListCapacityImpact.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\ListCapacityImpact.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\ListCapacityImpact.dll
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\refint\ListCapacityImpact.dll
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\ListCapacityImpact.pdb
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\ListCapacityImpact.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day13\ListCapacityImpact\ListCapacityImpact\obj\Debug\net6.0\ref\ListCapacityImpact.dll

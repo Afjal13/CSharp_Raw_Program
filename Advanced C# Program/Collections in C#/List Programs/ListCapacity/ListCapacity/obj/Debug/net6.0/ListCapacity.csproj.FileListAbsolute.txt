@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\ListCapacity.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\ListCapacity.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\ListCapacity.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\ListCapacity.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\ListCapacity.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\bin\Debug\net6.0\ListCapacity.exe
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\bin\Debug\net6.0\ListCapacity.deps.json
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\bin\Debug\net6.0\ListCapacity.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\bin\Debug\net6.0\ListCapacity.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\bin\Debug\net6.0\ListCapacity.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\ListCapacity.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\refint\ListCapacity.dll
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\ListCapacity.pdb
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\ListCapacity.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day12\ListCapacity\ListCapacity\obj\Debug\net6.0\ref\ListCapacity.dll

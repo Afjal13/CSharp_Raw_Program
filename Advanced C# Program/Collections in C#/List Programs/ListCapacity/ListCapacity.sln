@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListCapacity", "ListCapacity\ListCapacity.csproj", "{00C18782-11C7-4437-9495-975C03A4CA11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C18782-11C7-4437-9495-975C03A4CA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C18782-11C7-4437-9495-975C03A4CA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C18782-11C7-4437-9495-975C03A4CA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C18782-11C7-4437-9495-975C03A4CA11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C284E8-D63A-4CB8-96CF-82052977B432}
+	EndGlobalSection
+EndGlobal
