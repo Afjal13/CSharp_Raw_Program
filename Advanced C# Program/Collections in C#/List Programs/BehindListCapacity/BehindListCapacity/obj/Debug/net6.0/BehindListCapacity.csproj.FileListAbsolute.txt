@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\bin\Debug\net6.0\BehindListCapacity.exe
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\bin\Debug\net6.0\BehindListCapacity.deps.json
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\bin\Debug\net6.0\BehindListCapacity.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\bin\Debug\net6.0\BehindListCapacity.dll
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\bin\Debug\net6.0\BehindListCapacity.pdb
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\BehindListCapacity.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\BehindListCapacity.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\BehindListCapacity.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\BehindListCapacity.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\BehindListCapacity.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\BehindListCapacity.dll
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\refint\BehindListCapacity.dll
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\BehindListCapacity.pdb
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\BehindListCapacity.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day13\BehindListCapacity\BehindListCapacity\obj\Debug\net6.0\ref\BehindListCapacity.dll
