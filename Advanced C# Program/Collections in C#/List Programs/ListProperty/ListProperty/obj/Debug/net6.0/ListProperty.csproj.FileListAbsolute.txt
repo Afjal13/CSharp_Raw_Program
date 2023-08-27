@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.exe
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.deps.json
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.dll
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.pdb
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.dll
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\refint\ListProperty.dll
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.pdb
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ref\ListProperty.dll
