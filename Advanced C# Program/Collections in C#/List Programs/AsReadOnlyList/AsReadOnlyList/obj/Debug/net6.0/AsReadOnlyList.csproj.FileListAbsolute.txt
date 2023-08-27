@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\bin\Debug\net6.0\AsReadOnlyList.exe
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\bin\Debug\net6.0\AsReadOnlyList.deps.json
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\bin\Debug\net6.0\AsReadOnlyList.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\bin\Debug\net6.0\AsReadOnlyList.dll
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\bin\Debug\net6.0\AsReadOnlyList.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\AsReadOnlyList.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\AsReadOnlyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\AsReadOnlyList.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\AsReadOnlyList.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\AsReadOnlyList.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\AsReadOnlyList.dll
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\refint\AsReadOnlyList.dll
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\AsReadOnlyList.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\AsReadOnlyList.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day14\AsReadOnlyList\AsReadOnlyList\obj\Debug\net6.0\ref\AsReadOnlyList.dll
