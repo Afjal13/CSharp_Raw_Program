@@ -47,6 +47,7 @@ Numbers.TrimExcess();   //[] Count: 0  Capacity: 0
 
 Console.WriteLine($"\nTotal element is: {Numbers.Count}");
 Console.WriteLine($"\nTotal Capacity is: {Numbers.Capacity}");
+
 Console.WriteLine("\n\n========numbers start=======");
 List<int> numbers = new List<int>();
 numbers.Add(5);
@@ -60,25 +61,45 @@ Console.WriteLine(numbers.Capacity);
 numbers.TrimExcess();
 Console.WriteLine(numbers.Capacity);
 Console.WriteLine("========numbers end=======\n\n");
+
 //Contains, Exists, Find, FindAll, FindIndex, FindLast, FindLastIndex, LastIndexOf, IndexOf
-List<int> MyNumbersList = new List<int> { 35, 39, 42, 88, 42, 99,105,120,55 };
+List<int> MyNumbersList = new List<int> { 35, 39, 42, 88, 42, 99, 105, 120, 55 };
+
 //search specific element is contain or not in the list
 Console.WriteLine($"Contains Result is: {MyNumbersList.Contains(35)}");
+
 //predicate condition in the list on given element
 Console.WriteLine($"Exits Result is: {MyNumbersList.Exists(i => i >= 35)}");
+
+//Binary search [most of the use for sorted list]
+var binaryIndex = MyNumbersList.BinarySearch(88);
+Console.WriteLine($"If the element is in List then Binary Result is: {binaryIndex}");
+var binaryIndex1 = MyNumbersList.BinarySearch(250);
+Console.WriteLine($"If the element is not in List then Binary Result is: {binaryIndex1}");
+
+//IndexOf [Faster then binary search]
+var binaryIndexOf = MyNumbersList.IndexOf(88);
+Console.WriteLine($"If the element is in List then IndexOf Result is: {binaryIndexOf}");
+var binaryIndexOf1 = MyNumbersList.IndexOf(250);
+Console.WriteLine($"If the element is not in List then IndexOf Result is: {binaryIndexOf1}");
+
 //Find nearest single element on specific condition on given element
 Console.WriteLine($"Find Result is: {MyNumbersList.Find(i => i > 35)}");
+
 //Find all element on specific condition on given element
 Console.WriteLine($"FindAll Result is: ");
 List<int> FindAllElements = MyNumbersList.FindAll(i => i > 42);
 foreach (int element in FindAllElements)
     Console.WriteLine(element);
 
-int findIndexElement = MyNumbersList.FindIndex(4,i => i >55);
+int findIndexElement = MyNumbersList.FindIndex(4, i => i > 55);
 Console.WriteLine($"FindIndex Result is: {findIndexElement}");
+
 Console.WriteLine($"FindLast Result is: {MyNumbersList.FindLast(i => i > 55)}");
+
 var last = MyNumbersList.LastOrDefault();
 Console.WriteLine($"LastOrDefault Result is: {last}");
+
 var first = MyNumbersList.FirstOrDefault();
 Console.WriteLine($"FirstOrDefault Result is: {first}");
 
@@ -92,12 +113,18 @@ foreach (int element in MyNumbersList)
     Console.WriteLine(element);
 
 List<int> AnotherNumbersList = new List<int> { 40, 45, 50 };
+
+var indexN = AnotherNumbersList.BinarySearch(45); //binary search on sorted list
+Console.WriteLine($"binary is: {indexN}");
+
+//AddRange
 MyNumbersList.AddRange(AnotherNumbersList);
 
 Console.WriteLine($"By AddRange method, after added an array List Result is: ");
 foreach (int element in MyNumbersList)
     Console.WriteLine(element);
 
+//hold console window
 Console.ReadKey();
 
 //output
@@ -159,6 +186,10 @@ Console.ReadKey();
 
 //Contains Result is: True
 //Exits Result is: True
+//If the element is in List then Binary Result is: -6
+//If the element is not in List then Binary Result is: -10
+//If the element is in List then IndexOf Result is: 3
+//If the element is not in List then IndexOf Result is: -1
 //Find Result is: 39
 //FindAll Result is:
 //88
@@ -183,6 +214,7 @@ Console.ReadKey();
 //10
 //20
 //30
+//binary is: 1
 //By AddRange method, after added an array List Result is:
 //35
 //39

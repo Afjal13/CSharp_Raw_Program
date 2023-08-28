@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LocalDrive\\DotNet Tutorials\\Day13\\ListProperty\\ListProperty\\ListProperty.csproj",
+      "projectUniqueName": "C:\\LocalDrive\\CSharp Raw Program\\Advanced C# Program\\Collections in C#\\List Programs\\ListProperty\\ListProperty\\ListProperty.csproj",
       "projectName": "ListProperty",
-      "projectPath": "C:\\LocalDrive\\DotNet Tutorials\\Day13\\ListProperty\\ListProperty\\ListProperty.csproj",
+      "projectPath": "C:\\LocalDrive\\CSharp Raw Program\\Advanced C# Program\\Collections in C#\\List Programs\\ListProperty\\ListProperty\\ListProperty.csproj",
       "packagesPath": "C:\\Users\\Afjal Hossain\\.nuget\\packages\\",
-      "outputPath": "C:\\LocalDrive\\DotNet Tutorials\\Day13\\ListProperty\\ListProperty\\obj\\",
+      "outputPath": "C:\\LocalDrive\\CSharp Raw Program\\Advanced C# Program\\Collections in C#\\List Programs\\ListProperty\\ListProperty\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Afjal Hossain\\AppData\\Roaming\\NuGet\\NuGet.Config",

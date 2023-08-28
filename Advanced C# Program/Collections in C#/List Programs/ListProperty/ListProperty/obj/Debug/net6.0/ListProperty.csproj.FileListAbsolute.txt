@@ -13,3 +13,18 @@ C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\
 C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.pdb
 C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.genruntimeconfig.cache
 C:\LocalDrive\DotNet Tutorials\Day13\ListProperty\ListProperty\obj\Debug\net6.0\ref\ListProperty.dll
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.exe
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.deps.json
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.runtimeconfig.json
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.dll
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\bin\Debug\net6.0\ListProperty.pdb
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.csproj.AssemblyReference.cache
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.AssemblyInfoInputs.cache
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.AssemblyInfo.cs
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.csproj.CoreCompileInputs.cache
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.dll
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\refint\ListProperty.dll
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.pdb
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\ListProperty.genruntimeconfig.cache
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListProperty\ListProperty\obj\Debug\net6.0\ref\ListProperty.dll
