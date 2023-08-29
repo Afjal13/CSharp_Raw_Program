@@ -1,0 +1,15 @@
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\bin\Debug\net6.0\ListAnyPropertyUsingLINQ.exe
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\bin\Debug\net6.0\ListAnyPropertyUsingLINQ.deps.json
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\bin\Debug\net6.0\ListAnyPropertyUsingLINQ.runtimeconfig.json
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\bin\Debug\net6.0\ListAnyPropertyUsingLINQ.dll
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\bin\Debug\net6.0\ListAnyPropertyUsingLINQ.pdb
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\ListAnyPropertyUsingLINQ.csproj.AssemblyReference.cache
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\ListAnyPropertyUsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\ListAnyPropertyUsingLINQ.AssemblyInfoInputs.cache
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\ListAnyPropertyUsingLINQ.AssemblyInfo.cs
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\ListAnyPropertyUsingLINQ.csproj.CoreCompileInputs.cache
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\ListAnyPropertyUsingLINQ.dll
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\refint\ListAnyPropertyUsingLINQ.dll
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\ListAnyPropertyUsingLINQ.pdb
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\ListAnyPropertyUsingLINQ.genruntimeconfig.cache
+C:\LocalDrive\CSharp Raw Program\Advanced C# Program\Collections in C#\List Programs\ListAnyPropertyUsingLINQ\ListAnyPropertyUsingLINQ\obj\Debug\net6.0\ref\ListAnyPropertyUsingLINQ.dll
