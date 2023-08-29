@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\bin\Debug\net6.0\RemovePropertyInList.exe
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\bin\Debug\net6.0\RemovePropertyInList.deps.json
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\bin\Debug\net6.0\RemovePropertyInList.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\bin\Debug\net6.0\RemovePropertyInList.dll
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\bin\Debug\net6.0\RemovePropertyInList.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\RemovePropertyInList.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\RemovePropertyInList.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\RemovePropertyInList.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\RemovePropertyInList.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\RemovePropertyInList.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\RemovePropertyInList.dll
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\refint\RemovePropertyInList.dll
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\RemovePropertyInList.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\RemovePropertyInList.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day14\RemovePropertyInList\RemovePropertyInList\obj\Debug\net6.0\ref\RemovePropertyInList.dll
