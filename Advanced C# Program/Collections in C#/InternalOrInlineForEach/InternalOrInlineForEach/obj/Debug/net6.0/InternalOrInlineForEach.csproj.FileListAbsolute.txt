@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\bin\Debug\net6.0\InternalOrInlineForEach.exe
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\bin\Debug\net6.0\InternalOrInlineForEach.deps.json
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\bin\Debug\net6.0\InternalOrInlineForEach.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\bin\Debug\net6.0\InternalOrInlineForEach.dll
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\bin\Debug\net6.0\InternalOrInlineForEach.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\InternalOrInlineForEach.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\InternalOrInlineForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\InternalOrInlineForEach.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\InternalOrInlineForEach.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\InternalOrInlineForEach.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\InternalOrInlineForEach.dll
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\refint\InternalOrInlineForEach.dll
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\InternalOrInlineForEach.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\InternalOrInlineForEach.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day14\InternalOrInlineForEach\InternalOrInlineForEach\obj\Debug\net6.0\ref\InternalOrInlineForEach.dll
