@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\bin\Debug\net6.0\SortedSetList.exe
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\bin\Debug\net6.0\SortedSetList.deps.json
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\bin\Debug\net6.0\SortedSetList.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\bin\Debug\net6.0\SortedSetList.dll
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\bin\Debug\net6.0\SortedSetList.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\SortedSetList.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\SortedSetList.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\SortedSetList.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\SortedSetList.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\SortedSetList.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\SortedSetList.dll
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\refint\SortedSetList.dll
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\SortedSetList.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\SortedSetList.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day14\SortedSetList\SortedSetList\obj\Debug\net6.0\ref\SortedSetList.dll
