@@ -1,0 +1,15 @@
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\bin\Debug\net6.0\AdvancedListProgram.exe
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\bin\Debug\net6.0\AdvancedListProgram.deps.json
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\bin\Debug\net6.0\AdvancedListProgram.runtimeconfig.json
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\bin\Debug\net6.0\AdvancedListProgram.dll
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\bin\Debug\net6.0\AdvancedListProgram.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\AdvancedListProgram.csproj.AssemblyReference.cache
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\AdvancedListProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\AdvancedListProgram.AssemblyInfoInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\AdvancedListProgram.AssemblyInfo.cs
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\AdvancedListProgram.csproj.CoreCompileInputs.cache
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\AdvancedListProgram.dll
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\refint\AdvancedListProgram.dll
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\AdvancedListProgram.pdb
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\AdvancedListProgram.genruntimeconfig.cache
+C:\LocalDrive\DotNet Tutorials\Day14\AdvancedListProgram\AdvancedListProgram\obj\Debug\net6.0\ref\AdvancedListProgram.dll
