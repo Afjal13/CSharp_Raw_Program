@@ -1,0 +1,14 @@
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.exe
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.deps.json
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.runtimeconfig.json
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.dll
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\bin\Debug\net6.0\EnumDemo.pdb
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.AssemblyInfoInputs.cache
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.AssemblyInfo.cs
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.csproj.CoreCompileInputs.cache
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.dll
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\obj\Debug\net6.0\refint\EnumDemo.dll
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.pdb
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\obj\Debug\net6.0\EnumDemo.genruntimeconfig.cache
+D:\C# Raw Programming\Day15\EnumDemo\EnumDemo\obj\Debug\net6.0\ref\EnumDemo.dll
