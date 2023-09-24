@@ -13,3 +13,17 @@ C:\LocalDrive\DotNet Tutorials\Day12\ListDemo\ListDemo\obj\Debug\net6.0\refint\L
 C:\LocalDrive\DotNet Tutorials\Day12\ListDemo\ListDemo\obj\Debug\net6.0\ListDemo.pdb
 C:\LocalDrive\DotNet Tutorials\Day12\ListDemo\ListDemo\obj\Debug\net6.0\ListDemo.genruntimeconfig.cache
 C:\LocalDrive\DotNet Tutorials\Day12\ListDemo\ListDemo\obj\Debug\net6.0\ref\ListDemo.dll
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\bin\Debug\net6.0\ListDemo.exe
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\bin\Debug\net6.0\ListDemo.deps.json
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\bin\Debug\net6.0\ListDemo.runtimeconfig.json
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\bin\Debug\net6.0\ListDemo.dll
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\bin\Debug\net6.0\ListDemo.pdb
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\obj\Debug\net6.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\obj\Debug\net6.0\ListDemo.AssemblyInfoInputs.cache
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\obj\Debug\net6.0\ListDemo.AssemblyInfo.cs
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\obj\Debug\net6.0\ListDemo.csproj.CoreCompileInputs.cache
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\obj\Debug\net6.0\ListDemo.dll
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\obj\Debug\net6.0\refint\ListDemo.dll
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\obj\Debug\net6.0\ListDemo.pdb
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\obj\Debug\net6.0\ListDemo.genruntimeconfig.cache
+D:\Project\Advanced C# Program\Collections in C#\List Programs\ListDemo\ListDemo\obj\Debug\net6.0\ref\ListDemo.dll
