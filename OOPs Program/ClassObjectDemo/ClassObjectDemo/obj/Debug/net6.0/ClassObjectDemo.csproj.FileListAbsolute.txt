@@ -1,0 +1,14 @@
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\bin\Debug\net6.0\ClassObjectDemo.exe
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\bin\Debug\net6.0\ClassObjectDemo.deps.json
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\bin\Debug\net6.0\ClassObjectDemo.runtimeconfig.json
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\bin\Debug\net6.0\ClassObjectDemo.dll
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\bin\Debug\net6.0\ClassObjectDemo.pdb
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\obj\Debug\net6.0\ClassObjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\obj\Debug\net6.0\ClassObjectDemo.AssemblyInfoInputs.cache
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\obj\Debug\net6.0\ClassObjectDemo.AssemblyInfo.cs
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\obj\Debug\net6.0\ClassObjectDemo.csproj.CoreCompileInputs.cache
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\obj\Debug\net6.0\ClassObjectDemo.dll
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\obj\Debug\net6.0\refint\ClassObjectDemo.dll
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\obj\Debug\net6.0\ClassObjectDemo.pdb
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\obj\Debug\net6.0\ClassObjectDemo.genruntimeconfig.cache
+D:\C# Raw Programming\ClassObjectDemo\ClassObjectDemo\obj\Debug\net6.0\ref\ClassObjectDemo.dll
