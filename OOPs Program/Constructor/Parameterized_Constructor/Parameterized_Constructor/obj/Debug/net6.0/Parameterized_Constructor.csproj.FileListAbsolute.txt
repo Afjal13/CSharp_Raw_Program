@@ -1,0 +1,14 @@
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\obj\Debug\net6.0\Parameterized_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\obj\Debug\net6.0\Parameterized_Constructor.AssemblyInfoInputs.cache
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\obj\Debug\net6.0\Parameterized_Constructor.AssemblyInfo.cs
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\obj\Debug\net6.0\Parameterized_Constructor.csproj.CoreCompileInputs.cache
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\bin\Debug\net6.0\Parameterized_Constructor.exe
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\bin\Debug\net6.0\Parameterized_Constructor.deps.json
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\bin\Debug\net6.0\Parameterized_Constructor.runtimeconfig.json
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\bin\Debug\net6.0\Parameterized_Constructor.dll
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\bin\Debug\net6.0\Parameterized_Constructor.pdb
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\obj\Debug\net6.0\Parameterized_Constructor.dll
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\obj\Debug\net6.0\refint\Parameterized_Constructor.dll
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\obj\Debug\net6.0\Parameterized_Constructor.pdb
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\obj\Debug\net6.0\Parameterized_Constructor.genruntimeconfig.cache
+D:\C# Raw Programming\Parameterized_Constructor\Parameterized_Constructor\obj\Debug\net6.0\ref\Parameterized_Constructor.dll

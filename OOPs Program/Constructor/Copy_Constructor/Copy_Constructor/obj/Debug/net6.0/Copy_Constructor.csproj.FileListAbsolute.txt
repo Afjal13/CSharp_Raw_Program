@@ -1,0 +1,14 @@
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\bin\Debug\net6.0\Copy_Constructor.exe
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\bin\Debug\net6.0\Copy_Constructor.deps.json
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\bin\Debug\net6.0\Copy_Constructor.runtimeconfig.json
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\bin\Debug\net6.0\Copy_Constructor.dll
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\bin\Debug\net6.0\Copy_Constructor.pdb
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\obj\Debug\net6.0\Copy_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\obj\Debug\net6.0\Copy_Constructor.AssemblyInfoInputs.cache
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\obj\Debug\net6.0\Copy_Constructor.AssemblyInfo.cs
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\obj\Debug\net6.0\Copy_Constructor.csproj.CoreCompileInputs.cache
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\obj\Debug\net6.0\Copy_Constructor.dll
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\obj\Debug\net6.0\refint\Copy_Constructor.dll
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\obj\Debug\net6.0\Copy_Constructor.pdb
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\obj\Debug\net6.0\Copy_Constructor.genruntimeconfig.cache
+D:\C# Raw Programming\Copy_Constructor\Copy_Constructor\obj\Debug\net6.0\ref\Copy_Constructor.dll

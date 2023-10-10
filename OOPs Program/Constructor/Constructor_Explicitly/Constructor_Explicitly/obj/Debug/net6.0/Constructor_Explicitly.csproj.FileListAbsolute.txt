@@ -1,0 +1,14 @@
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\bin\Debug\net6.0\Constructor_Explicitly.exe
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\bin\Debug\net6.0\Constructor_Explicitly.deps.json
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\bin\Debug\net6.0\Constructor_Explicitly.runtimeconfig.json
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\bin\Debug\net6.0\Constructor_Explicitly.dll
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\bin\Debug\net6.0\Constructor_Explicitly.pdb
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\obj\Debug\net6.0\Constructor_Explicitly.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\obj\Debug\net6.0\Constructor_Explicitly.AssemblyInfoInputs.cache
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\obj\Debug\net6.0\Constructor_Explicitly.AssemblyInfo.cs
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\obj\Debug\net6.0\Constructor_Explicitly.csproj.CoreCompileInputs.cache
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\obj\Debug\net6.0\Constructor_Explicitly.dll
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\obj\Debug\net6.0\refint\Constructor_Explicitly.dll
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\obj\Debug\net6.0\Constructor_Explicitly.pdb
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\obj\Debug\net6.0\Constructor_Explicitly.genruntimeconfig.cache
+D:\C# Raw Programming\Constructor_Explicitly\Constructor_Explicitly\obj\Debug\net6.0\ref\Constructor_Explicitly.dll
