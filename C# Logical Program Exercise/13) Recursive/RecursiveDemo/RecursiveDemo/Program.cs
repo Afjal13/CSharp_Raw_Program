@@ -17,8 +17,9 @@
             int s = x[i];
             if (i > 0)
                 s =s+ function(x, i - 1);
-            Console.WriteLine(s);
+            Console.Write(s);
             return s;
         }
     }
 }
+output: 146
