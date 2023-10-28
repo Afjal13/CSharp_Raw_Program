@@ -1,0 +1,14 @@
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\bin\Debug\net6.0\RecursiveDemo.exe
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\bin\Debug\net6.0\RecursiveDemo.deps.json
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\bin\Debug\net6.0\RecursiveDemo.runtimeconfig.json
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\bin\Debug\net6.0\RecursiveDemo.dll
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\bin\Debug\net6.0\RecursiveDemo.pdb
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\obj\Debug\net6.0\RecursiveDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\obj\Debug\net6.0\RecursiveDemo.AssemblyInfoInputs.cache
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\obj\Debug\net6.0\RecursiveDemo.AssemblyInfo.cs
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\obj\Debug\net6.0\RecursiveDemo.csproj.CoreCompileInputs.cache
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\obj\Debug\net6.0\RecursiveDemo.dll
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\obj\Debug\net6.0\refint\RecursiveDemo.dll
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\obj\Debug\net6.0\RecursiveDemo.pdb
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\obj\Debug\net6.0\RecursiveDemo.genruntimeconfig.cache
+D:\C# Raw Programming\RecursiveDemo\RecursiveDemo\obj\Debug\net6.0\ref\RecursiveDemo.dll
