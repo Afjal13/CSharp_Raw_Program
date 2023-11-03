@@ -1,0 +1,14 @@
+D:\C# Raw Programming\TupleMethod\TupleMethod\bin\Debug\net6.0\TupleMethod.exe
+D:\C# Raw Programming\TupleMethod\TupleMethod\bin\Debug\net6.0\TupleMethod.deps.json
+D:\C# Raw Programming\TupleMethod\TupleMethod\bin\Debug\net6.0\TupleMethod.runtimeconfig.json
+D:\C# Raw Programming\TupleMethod\TupleMethod\bin\Debug\net6.0\TupleMethod.dll
+D:\C# Raw Programming\TupleMethod\TupleMethod\bin\Debug\net6.0\TupleMethod.pdb
+D:\C# Raw Programming\TupleMethod\TupleMethod\obj\Debug\net6.0\TupleMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Raw Programming\TupleMethod\TupleMethod\obj\Debug\net6.0\TupleMethod.AssemblyInfoInputs.cache
+D:\C# Raw Programming\TupleMethod\TupleMethod\obj\Debug\net6.0\TupleMethod.AssemblyInfo.cs
+D:\C# Raw Programming\TupleMethod\TupleMethod\obj\Debug\net6.0\TupleMethod.csproj.CoreCompileInputs.cache
+D:\C# Raw Programming\TupleMethod\TupleMethod\obj\Debug\net6.0\TupleMethod.dll
+D:\C# Raw Programming\TupleMethod\TupleMethod\obj\Debug\net6.0\refint\TupleMethod.dll
+D:\C# Raw Programming\TupleMethod\TupleMethod\obj\Debug\net6.0\TupleMethod.pdb
+D:\C# Raw Programming\TupleMethod\TupleMethod\obj\Debug\net6.0\TupleMethod.genruntimeconfig.cache
+D:\C# Raw Programming\TupleMethod\TupleMethod\obj\Debug\net6.0\ref\TupleMethod.dll
