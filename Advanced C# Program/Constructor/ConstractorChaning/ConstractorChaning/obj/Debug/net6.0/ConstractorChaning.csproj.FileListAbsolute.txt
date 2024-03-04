@@ -1,0 +1,14 @@
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\bin\Debug\net6.0\ConstractorChaning.exe
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\bin\Debug\net6.0\ConstractorChaning.deps.json
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\bin\Debug\net6.0\ConstractorChaning.runtimeconfig.json
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\bin\Debug\net6.0\ConstractorChaning.dll
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\bin\Debug\net6.0\ConstractorChaning.pdb
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\obj\Debug\net6.0\ConstractorChaning.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\obj\Debug\net6.0\ConstractorChaning.AssemblyInfoInputs.cache
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\obj\Debug\net6.0\ConstractorChaning.AssemblyInfo.cs
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\obj\Debug\net6.0\ConstractorChaning.csproj.CoreCompileInputs.cache
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\obj\Debug\net6.0\ConstractorChaning.dll
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\obj\Debug\net6.0\refint\ConstractorChaning.dll
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\obj\Debug\net6.0\ConstractorChaning.pdb
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\obj\Debug\net6.0\ConstractorChaning.genruntimeconfig.cache
+D:\C# Raw Programming\ConstractorChaning\ConstractorChaning\obj\Debug\net6.0\ref\ConstractorChaning.dll
